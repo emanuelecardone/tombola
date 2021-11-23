@@ -1,11 +1,3 @@
- //     alert(`
-//     I tuoi numeri: ${userNumbers}
-//     I numeri del computer: ${computerNumbers}
-//     ${userMessage}
-//     `);
-// }
-
-
 // RIEMPIO HEADER
 document.querySelector('header').innerHTML = `
     <div class="container-fluid">
